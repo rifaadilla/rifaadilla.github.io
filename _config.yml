@@ -17,7 +17,7 @@ title: Rifa Adilla
 email: rifaadila0504@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An inarguably well-designed Jekyll theme.
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/rifaadilla/rifaadilla.github.io"
 icon: /assets/images/icon-512.png
 twitter_username: patdryburgh
